@@ -1,0 +1,77 @@
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+
+#body1 {
+    background-color:bisque;
+}
+
+#title {
+    color:darkred;
+    font-size:31;
+    font-weight:300;
+
+}
+
+#instruct {
+    color: darkslateblue;
+    font-size:23;
+    font-weight:700;
+}
+
+#instructions {
+    color:forestgreen;
+    font-size:22;
+    font-weight:100;
+}
+
+#camera {
+    outline: 10px black;
+    outline-offset: -2px;
+    width: 100;
+    height: 100;
+}
+
+#codingcamera1 {
+    border:black;
+    width:250;
+    height:250;
+    border-radius:20;
+    padding:6;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#codingcamera1:hover{
+    border-radius:67px;
+}
+
+#codingcamera2:hover{
+    border-radius:67px;
+}
+
+#codingcamera3:hover{
+    border-radius:67px;
+}
+
+#codingcamera2 {
+    border:black;
+    width:250;
+    height:250;
+    border-radius:20;
+    padding:6;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#codingcamera3 {
+    border:black;
+    width:250;
+    height:250;
+    border-radius:20;
+    padding:6;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
